@@ -1,0 +1,6 @@
+streamlit
+paramiko
+pandas
+tkcalendar
+customtkinter
+```
